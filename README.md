@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f577dc97-ebd6-4bb8-9606-fe39da313264)# 📓 DiaryApp
+📓 DiaryApp
 
 > **This project was originally developed in 2020 as part of a university assignment and is shared here to help other students with similar coursework.**
 
